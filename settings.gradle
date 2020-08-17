@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "PLANTING SHEDULE_admin"

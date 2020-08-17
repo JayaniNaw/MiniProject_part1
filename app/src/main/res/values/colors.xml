@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="Admincolor">#498c60</color>
+    <color name="Adminbuttoncolor">#85BCA9</color>
+    <color name="textcolor">#1B4A40</color>
+    <color name="textcolor2">#73781c</color>
+
+</resources>
