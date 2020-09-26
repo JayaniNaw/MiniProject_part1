@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22689548510",
+    "firebase_url": "https://planting-sheduleadmin.firebaseio.com",
+    "project_id": "planting-sheduleadmin",
+    "storage_bucket": "planting-sheduleadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22689548510:android:95f8ca09b8c111f3121a4f",
+        "android_client_info": {
+          "package_name": "com.example.plantingshedule_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22689548510-i5en52qqp6acp0mch6qnqpflh6195t8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantingshedule_admin",
+            "certificate_hash": "e349e6d62a8f34c2c8302e644537a5a54595dc2a"
+          }
+        },
+        {
+          "client_id": "22689548510-t6gq4u5svatoe4l51s4q5rdaht742q93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4-sg8FFLHb1FvPumyZi2LSAxnEKwFJmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22689548510-t6gq4u5svatoe4l51s4q5rdaht742q93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

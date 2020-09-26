@@ -22,5 +22,9 @@
     <string name="Update">UPDATE</string>
     <string name="Del_btn">DELETE</string>
     <string name="admintext16">UPDATE PLANTING SHEDULE</string>
+    <string name="id">Enter Plant ID</string>
+    <string name="name">Enter Plant Name</string>
+    <string name="shedule">Enter Plant Shedule</string>
+    <string name="retrieve">show</string>
 
 </resources>

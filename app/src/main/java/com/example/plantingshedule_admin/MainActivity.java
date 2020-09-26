@@ -16,9 +16,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin__dash_board);
 
-
-        ImageButton btnplant = findViewById(R.id.plantbtn);
-        btnplant .setOnClickListener(new View.OnClickListener() {
+        Button btnplantshedule = findViewById(R.id.plantbtn);
+        btnplantshedule.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(getApplicationContext(),Admin_DashBoard.class);
@@ -27,4 +26,5 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
 }
